@@ -1,0 +1,3 @@
+C:/Users/dswhi/CLionProjects/AverageOfThree/cmake-build-debug/CMakeFiles/AverageOfThree.dir
+C:/Users/dswhi/CLionProjects/AverageOfThree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dswhi/CLionProjects/AverageOfThree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
